@@ -1,5 +1,5 @@
 # Stock Price Forecasting Project
-# Author: Raj
+
 
 import numpy as np
 import pandas as pd
